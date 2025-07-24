@@ -1,16 +1,23 @@
-# Hi, I'm Aurélien!
+# 👋 Hi, I'm Aurélien!
 
 
 **Engineering Manager** / **Tech Lead** with over 10 years of experience in web development, frontend architecture, technical leadership and team management.
+Proven track record delivering frontend-heavy, high-impact products.
+Exploring AI integration into frontend and full-stack architectures.
+
 
 Born in France, Based in NYC, United States
+
+Currently **open to work**! (full remote or NYC hybrid/on-site)
+
+https://www.linkedin.com/in/agreffard/
 
 ---
 
 
 ## 🎯 2025 Personal Goals
-📖 **Read 12 books** (6/12 so far – I take recommendations!)  
-🎸 **Attend 12 concerts** (10/12 – I might end up with 20)  
+📖 **Read 12 books** (8/12 so far – I take recommendations!)  
+🎸 **Attend 12 concerts** (12/12 already – I might end up with 20)  
 🥾 **Go on 6 hikes** (2/6 – late on schedule - the city can be sticky!)  
 🚲 **Bike to work at least 50% of the days** (closer to 0% at the moment)  
 🧗‍♂️ **Reach V5 bouldering grade** (currently V3-V4, chalking up!)  
@@ -25,6 +32,9 @@ Born in France, Based in NYC, United States
 
 
 ## 🧑‍💻 Personal Projects
+
+- [Learning notes](https://github.com/agreffard/learning-notes/) ⸱ 2025
+    -  _Taking notes on books I read and things I learn._
 
 - [NY Legislative tracker](https://github.com/sunrisemvmtnyc/legislation-tracker) ⸱ 2024
     -  _Sunrise movement NYC partnership. Tracking platform and call for action on progressive legislation._
@@ -45,25 +55,20 @@ Born in France, Based in NYC, United States
 
 ## 🛠️ Tech Stack
 
-### Main technical skills
-- JavaScript | TypeScript | React.js | Next.js | Redux | React-query | React-router
-- HTML5 | CSS3 | Emotion | Tailwind | Styled-components
-- Webpack | Vite
-- Jest | React Testing Library | Cypress | Puppeteer
-- Docker | Jenkins | Bitbucket actions | Github actions
-- Node.js | Express.js
-
-### Also experienced in
-- Astro | Gatsby | Ghost | Strapi
-- Python | C++ | Qt | QML | Java
-- PostgreSQL | GraphQL
-- and many more
-
 ### Team management
 - **Leadership**: Team growth | Recruitment | Mentoring | Technical strategy | 1-1s
 - **Agile tools**: Scrum | Kanban | Jira | Phabricator
 - **Soft Skills**: Strong focus | Problem-solving | Adaptability | Excellent communication
 
+### Technical skills
+- JavaScript | TypeScript | React.js | Next.js | Redux | React-query | React-router | AI CopilotKit
+- Jest | React Testing Library | Cypress | Puppeteer
+- HTML5 | CSS3 | Emotion | Tailwind | Styled-components
+- Webpack | Vite | ESLint | Prettier
+- Docker | Jenkins | Bitbucket actions | Github actions
+- Node.js | Express.js
+- PostgreSQL | GraphQL
+- Python | C++ | Qt | QML | Java
 
 ## 💼 Work Experience
 📌 [Witbe](https://www.witbe.net/) (9+ years)
@@ -73,12 +78,13 @@ Born in France, Based in NYC, United States
 - Implemented **best practices** for frontend architecture, code quality and scalability.
 - **Reviewed code** and **provided guidance** to company frontend developers to maintain high coding standards.
 - Set up **automated testing** and **CI pipelines** to maintain high-quality, bug-free code.
-- **Developed and maintained** key projects (React, TypeScript, Node.js, QML, C++):
-    - Remote Eye Controller: access and control devices with virtual remotes + live streaming
-    - Smartgate: data visualisation platform and live alerts monitoring
-    - Analyzer: data structures migration microservice
-    - Workbench: node-based visual scripting and test campaigns scheduler
-    - Design System: UI/UX components standardization across all company applications
+- **Developed and maintained** key projects (React, TypeScript, Node.js, QML, C++, Python):
+    - _Agentic AI_: chatbot connected to MCP servers and LLM agents for test automation
+    - _Remote Eye Controller_: access and control devices with virtual remotes + live streaming
+    - _Smartgate_: data visualisation platform and live alerts monitoring
+    - _Analyzer_: data structures migration microservice
+    - _Workbench_: node-based visual scripting and test campaigns scheduler
+    - _Design System_: UI/UX components standardization across all company applications
 
 🔹**Engineering Manager** | Paris (Jan 2020 to Nov 2022)
 - Managed a **cross-functional team of 6-8 engineers** (frontend, backend, QA, devOps) across multiple global locations.
@@ -101,7 +107,7 @@ Born in France, Based in NYC, United States
 
 📌 **Previously**
 
-🔹 **Fullstack Software Engineer** | [Mikros Image](https://www.mpcvfx.com/en/technology/) | Paris (2015-2015)
+🔹 **Fullstack Software Engineer** | [Mikros Image](https://www.mpcvfx.com/en/technology/) | Paris (2015-2016)
 - **Developed** an end-to-end media transcoding and delivery platform for TV broadcasters using Java, JavaFX, Play! framework, LevelDB, JUnit.
 - Ensured **security, integrity and redundancy** of sensitive data on the backend side.
 - Provided **monthly deliveries** to our main client FranceTV.
@@ -115,9 +121,12 @@ Born in France, Based in NYC, United States
 - Various developments Python, Plone, Django.
 
 
-👨‍🎓 Graduated from a **Master of Engineering in Computer Science** | IMAC Engineering school | Paris, France (2014)
+## 👨‍🎓 Education
+
+Graduated from a **Master of Engineering in Computer Science** | IMAC Engineering school | Paris, France (2014)
 - Specializations: programming, web development, image processing, system design, project management, communication.
 
 ---
 
 ### 📬 Let's get in Touch!
+https://www.linkedin.com/in/agreffard/
